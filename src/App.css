@@ -1,0 +1,19 @@
+
+
+.Inky-Container {
+  width: 100%;
+  height: 100%;
+}
+.Inky-logo {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.Inky-logo-container {
+  width: 8%;
+}
+
+.Inky-input {
+  white-space: pre-wrap;
+}
